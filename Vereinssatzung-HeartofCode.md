@@ -46,6 +46,7 @@ b) die Mitgliederversammlung
 (4) Vorstandssitzungen finden jährlich mindestens ein Mal statt. Die Einladung zu Vorstandssitzungen erfolgt per E-mail unter Einhaltung einer Einladungsfrist von mindestens drei Tagen. Vorstandssitzungen sind beschlussfähig, wenn zwei Vorstandsmitglieder anwesend sind.
 (5) Der Vorstand fasst seine Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet die Stimme der Vorsitzenden.
 (6) Über die Vorstandssitzung ist ein Protokoll anzulegen.
+
 § 9 Mitgliederversammlung
 (1) Die Mitgliederversammlung ist einmal in zwei Jahren einzuberufen.
 (2) Eine außerordentliche Mitgliederversammlung ist einzuberufen, wenn es das Vereinsinteresse erfordert oder wenn die Einberufung von mindestens zehn Prozent der Vereinsmitglieder schriftlich und unter Angabe des Zweckes und der Gründe verlangt wird.
@@ -63,9 +64,11 @@ h) Auflösung des Vereins.
 (5) Jede satzungsmäßig einberufene Mitgliederversammlung wird als beschlussfähig anerkannt, wenn mindestens 10% der Vereinsmitglieder anwesend sind. Jedes ordentliche Mitglied hat eine Stimme. Fördermitglieder haben Teilnahmerecht.
 (6) Die Mitgliederversammlung fasst ihre Beschlüsse mit einfacher Mehrheit. Bei Stimmengleichheit gilt ein Antrag als abgelehnt.
 (7) Bei Mitgliederversammlungen sind Protokolle anzufertigen.
+
 § 10 Satzungsänderung
 (1) Für Satzungsänderungen ist eine 2/3 Mehrheit der erschienenen Vereinsmitglieder erforderlich. Über Satzungsänderungen kann in der Mitgliederversammlung nur abgestimmt werden, wenn auf diesen Tagesordnungspunkt bereits in der Einladung zur Mitgliederversammlung hingewiesen wurde und der Einladung sowohl der bisherige als auch der vorgesehene neue Satzungstext beigefügt worden waren.
 (2) Satzungsänderungen, die von Aufsichts-, Gerichts- oder Finanzbehörden aus formalen Gründen verlangt werden, kann der Vorstand von sich aus vornehmen. Diese Satzungsänderungen müssen allen Vereinsmitgliedern als bald schriftlich mitgeteilt werden.
+
 § 11 Auflösung des Vereins und Vermögensbindung
 (1) Für den Beschluss, den Verein aufzulösen, ist eine 3/4-Mehrheit der in der Mitgliederversammlung anwesenden Mitglieder erforderlich. Der Beschluss kann nur nach rechtzeitiger Ankündigung in der Einladung zur Mitgliederversammlung gefasst werden.
 (2) Bei Auflösung des Vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das Vermögen des Vereins an eine juristische Person des öffentlichen Rechts oder eine andere steuerbegünstigte Körperschaft zwecks Verwendung für die Förderung der Gleichberechtigung von Frauen und Männern. Beschlüsse über die künftige Verwendung des Vereinsvermögens dürfen erst nach Einwilligung des Finanzamtes ausgeführt werden.
